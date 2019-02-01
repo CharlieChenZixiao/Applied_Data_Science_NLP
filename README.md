@@ -5,7 +5,7 @@
 ![image](figs/title.jpeg)
 
 ### [Project Description](doc/Proj1_desc.md)
-This is the first and only *individual* (as opposed to *team*) this semester. 
+This is the first applied data scinence project of Charlie Chen this semester. 
 
 Term: Spring 2019
 
