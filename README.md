@@ -27,7 +27,11 @@ proj/
 
 Please see each subfolder for a README file.
 ### [Reference](doc/Proj1_ref.md)
-Open sourced libraries used
--pandas
--numpy
--matplotlib
+Open sourced libraries used:
++ pandas
++ numpy
++ matplotlib
++ seaborn
++ genism
++ nltk
++ wordcloud
